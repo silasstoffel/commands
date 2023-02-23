@@ -4,7 +4,7 @@ ___
 
 ### while true
 
-**Filtering by name or partial name of the branch** 
+**Execute command with inity loop** 
 
 ```shell
 # delete branch that contains word "chore"
