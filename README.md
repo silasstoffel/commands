@@ -4,4 +4,4 @@
 
 [Git](./docs/GIT.MD)
 
-[Linux](./docs/GIT.MD)
+[Linux](./docs/LINUX.MD)
