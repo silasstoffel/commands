@@ -2,4 +2,5 @@
 
 ## Summary
 
-[Git](./docs/git/GIT.MD)
+[Git](./docs/GIT.MD)
+[Linux](./docs/GIT.MD)

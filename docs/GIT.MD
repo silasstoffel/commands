@@ -1,4 +1,4 @@
-[Go Back](../../README.md)
+[Go Back](../README.md)
 ___
 # Git Commands
 
@@ -18,4 +18,4 @@ git branch | grep -i -v "main" | xargs git branch -D
 ```
 
 ___
-[Go Back](../../README.md)
+[Go Back](../README.md)
