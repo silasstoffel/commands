@@ -19,6 +19,14 @@ ___
  watch -n5 curl https://viacep.com.br/ws/29162206/json 
 ```
 
+### Hash / Crypt
 
+```shell
+# MD5 encode
+md5 -r filename.txt 
+
+# base64 encode
+echo -n "eef98d12e7ca8bf0f3a08a6a714431d4" | base64
+```
 ___
 [Go Back](../README.md)
